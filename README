@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1130
+
+This is the script with which Yegappan Lakshmanan generated the Vim FAQ in Vim Help format. 
+
+If you're just interested in the Vim FAQ in Vim Help format you might as well get it here: http://www.geocities.com/yegappan/vim_faq_help.txt . But if you'd like to help (Yegappan and) me improve this script (or just have a look at this script out of curiosity) you might want to download this script.
+
+There's no documentation. The script should have enough comments to explain itself.
